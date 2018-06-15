@@ -1,0 +1,10 @@
+{
+	"name": "Social Share Widget",
+	"description": "A compact solution for social sharing",
+	"author": "Sathya",
+	"author-email": "sathya.r@krds.fr",
+	"image": "img/packshot.png",
+	"gif": "img/packshot.gif",
+	"tags": "social, share, widget",
+	"repo-url": "https://github.com/krdsbox/social-share-widget"
+}
